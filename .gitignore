@@ -1,0 +1,11 @@
+node_modules/
+
+.env
+.env.*
+!.env.example
+
+screenshot.jpg
+*-resized.png
+/temp.txt
+
+*.log
